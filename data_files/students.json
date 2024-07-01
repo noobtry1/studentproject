@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Gokesh",
+        "roll_number": 45,
+        "phone_number": 9712345680,
+        "address": "Bhaktapur",
+        "email": "gokesh@gmail.com",
+        "marks": {
+            "C": 45,
+            "Maths": 34,
+            "Physics": 66,
+            "Biology": 78
+        }
+    },
+    {
+        "name": "Sukesh",
+        "roll_number": 46,
+        "phone_number": 9723345680,
+        "address": "Kathmandu",
+        "email": "sukesh@gmail.com",
+        "marks": {
+            "C": 65,
+            "Maths": 76,
+            "Physics": 76,
+            "Biology": 88
+        }
+    },
+    {
+        "name": "Ramesh",
+        "roll_number": 22,
+        "phone_number": 9723345680,
+        "address": "Kathmandu",
+        "email": "ramesh2@gmail.com",
+        "marks": {
+            "C": 70,
+            "Maths": 96,
+            "Physics": 86,
+            "Biology": 88
+        }
+    },
+    {
+        "name": "Naresh",
+        "roll_number": 20,
+        "phone_number": 9723345680,
+        "address": "Makwanpur",
+        "email": "nareshnoob@gmail.com",
+        "marks": {
+            "C": 50,
+            "Maths": 42,
+            "Physics": 44,
+            "Biology": 31
+        }
+    },
+    {
+        "name": "Paresh",
+        "roll_number": 11,
+        "phone_number": 9723345680,
+        "address": "Lalitpur",
+        "email": "paresh23@gmail.com",
+        "marks": {
+            "C": 65,
+            "Maths": 86,
+            "Physics": 70,
+            "Biology": 82
+        }
+    }
+]

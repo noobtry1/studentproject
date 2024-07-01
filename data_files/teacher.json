@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ram",
+        "subject": "Physics",
+        "id": 1234,
+        "email": "ram1@gmail.com",
+        "phone_number": 9789083421
+    },
+    {
+        "name": "Hari",
+        "subject": "Chemistry",
+        "id": 1235,
+        "email": "hari32@gmail.com",
+        "phone_number": 9812645603
+    },
+    {
+        "name": "Sita",
+        "subject": "Biology",
+        "id": 1236,
+        "email": "sita@gmail.com",
+        "phone_number": 9877125210
+    },
+    {
+        "name": "Gita",
+        "subject": "Account",
+        "id": 2345,
+        "email": "gitata@gmail.com",
+        "phone_number": 9823345210
+    }
+]
